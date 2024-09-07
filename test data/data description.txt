@@ -1,0 +1,23 @@
+pair0001	1	Altitude	Temperature	DWD	->	1
+pair0002	1	Altitude	Precipitation	DWD	->	1
+pair0003	1	Longitude	Temperature	DWD	->	1
+pair0004	1	Altitude	Sunshine hours	DWD	->	1
+pair0005	1	Latitude	Temperature	DWD	->	1
+pair0006	1	Longitude	Precipitation	DWD	->	1
+pair0007	1	Female life expectancy, 2000-2005	Latitude	UNdata	<-	1
+pair0008	1	Female life expectancy, 1995-2000	Latitude	UNdata	<-	1
+pair0009	1	Female life expectancy, 1990-1995	Latitude	UNdata 	<-	1
+pair0010	1	Female life expectancy, 1985-1990	Latitude	UNdata 	<-	1
+pair0011	1	Male life expectancy, 2000-2005	Latitude	UNdata 	<-	1
+pair0012	1	Male life expectancy, 1995-2000	Latitude	UNdata 	<-	1
+pair0013	1	Male life expectancy, 1990-1995	Latitude	UNdata 	<-	1
+pair0014	1	Male life expectancy, 1985-1990	Latitude	UNdata 	<-	1
+pair0015	1	Drinking water access	Infant mortality	UNdata	->	1
+pair0016	1	GNI per capita	Life expectancy	UNdata	->	1
+pair0017	1	Under-5 mortality rate	GNI per capita	UNdata	<-	1
+pair0018	1	Employment	Population	http://www.spatial-econometrics.com	<-	1
+pair0019	1	root decomposition Oct (grassl)	root decomposition Oct (grassl)	Solly et al (2014). Plant and Soil, 382(1-2), 203-218.	<-	1
+pair0020	1	root decomposition Oct (forest)	root decomposition Oct (forest)	Solly et al (2014). Plant and Soil, 382(1-2), 203-218.	<-	1
+pair0021	1	clay cont. in soil (forest)	soil moisture	Solly et al (2014). Plant and Soil, 382(1-2), 203-218.	->	1
+pair0022	1	organic carbon in soil (forest)	clay cont. in soil (forest)	Solly et al (2014). Plant and Soil, 382(1-2), 203-218.	<-	1
+pair0023	1	precipitation	runoff	MOPEX (ftp://hydrology.nws.noaa.gov/pub/gcip/mopex/US_Data/Us_438_Daily/)	->	1
